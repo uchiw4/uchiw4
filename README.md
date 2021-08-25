@@ -6,12 +6,12 @@
      
   ![LUFFFYYYyyy](https://user-images.githubusercontent.com/77907223/130513938-2602119b-ebe8-4aac-873b-71679ab6d37d.gif)
 
-                                                  ✌️ Mes objectifs :
+                                                ✌️ Mes objectifs :
 
-                                              - Maitriser python à 100 % 💯 
-                                        - Apprendre à développement des sites-web 🌐
-                                                - Atteindre le sommet ⛰
-                                            - Gagner ma vie grace au code 💸
+                                            - Maitriser python à 100 % 💯 
+                                      - Apprendre à développement des sites-web 🌐
+                                              - Atteindre le sommet ⛰
+                                          - Gagner ma vie grace au code 💸
 
 
 
