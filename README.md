@@ -11,7 +11,7 @@
                                                 ✌️ Mes objectifs :
 
                                             - Maitriser python à 100 % 💯 
-                                      - Apprendre à développement des sites-web 🌐
+                                      - Apprendre à développer des sites-web 🌐
                                               - Atteindre le sommet ⛰
                                           - Gagner ma vie grace au code 💸
 
