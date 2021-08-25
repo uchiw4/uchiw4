@@ -5,7 +5,7 @@
      
      
 <p align="center">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/77907223/130513938-2602119b-ebe8-4aac-873b-71679ab6d37d.gif">
+  <img width="600" height="350" src="https://user-images.githubusercontent.com/77907223/130513938-2602119b-ebe8-4aac-873b-71679ab6d37d.gif">
 </p>
 
                                                 ✌️ Mes objectifs :
